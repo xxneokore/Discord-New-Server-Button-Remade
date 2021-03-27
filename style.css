@@ -20,7 +20,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
-    color: rgb(67, 181, 129);
+    color: #6e82ca;
     background: #333;
     border: none;
     border-radius: 50%;
@@ -37,6 +37,6 @@ body {
 
 .plusBtn:hover {
     border-radius: 20%;
-    background: rgb(67, 181, 129);
+    background: #6e82ca;
     color: white;
 }
